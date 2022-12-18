@@ -1,5 +1,8 @@
 # DuctedFan
 Source code of Ducted Fan UAV
+![image](https://user-images.githubusercontent.com/43166007/208282786-402309bf-10d6-4fdc-bfe7-7eda9fd2f5b8.png)
+
+![image](https://user-images.githubusercontent.com/43166007/208282794-a960a4be-c5ce-49d7-94ca-496ae21c846d.png)
 
 flight log:
 
